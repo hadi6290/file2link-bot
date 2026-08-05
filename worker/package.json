@@ -1,0 +1,15 @@
+{
+  "name": "file2link-worker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ربات File2Link تلگرام - اجرا کامل روی Cloudflare Workers Free + KV Free بدون VPS",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "tail": "wrangler tail"
+  },
+  "devDependencies": {
+    "wrangler": "^3.78.0"
+  }
+}
