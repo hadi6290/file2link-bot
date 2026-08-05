@@ -1,0 +1,6 @@
+# این فایل فقط برای اجرای محلی با "wrangler dev" استفاده می‌شود.
+# آن را کپی کن به نام ".dev.vars" (بدون .example) و مقادیر واقعی را بگذار.
+# هرگز فایل .dev.vars را در گیت‌هاب/جای عمومی آپلود نکن.
+
+BOT_TOKEN=1234567890:AAExampleTokenFromBotFather
+WEBHOOK_SECRET=a-random-long-secret-string-you-choose
